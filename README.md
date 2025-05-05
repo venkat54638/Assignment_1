@@ -15,3 +15,5 @@ Then after i have pulled to my local
 ### Repository with Commit History
 - I have done 4 commits using clear messages (see above).
 
+![image](https://github.com/user-attachments/assets/329aad40-51d3-416d-bc96-6d9b78eb0c1d)
+

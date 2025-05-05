@@ -3,4 +3,4 @@ It contains a few lines of content.
 You can add, edit, or remove lines as needed.
 Text files are useful for storing information.
 They can be opened in various text editors.
-Simple and efficient!
+Simple and efficient way!

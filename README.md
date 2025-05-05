@@ -11,6 +11,7 @@ I commit these as added  7th line by comand 'git commit -m "added a 7th line"'.
 then after I have maken changes in 6th line in txt file and saved and added changes.
 I commit these as changed 6th line by command 'git commit -m "changed 6th line"'.
 I have used comman 'git log' for see logs.you can see the logs in above img 
+Then after i have pulled to my local
 ### Repository with Commit History
 - I have done 4 commits using clear messages (see above).
 
